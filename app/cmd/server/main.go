@@ -8,7 +8,7 @@ import (
 
 func main() {
 
-	// export SERVER_ADDR="8080" && export DB_FILE="app/data/tickets.csv" && go run app/cmd/server/main.go
+	// export SERVER_ADDR=":8080" && export DB_FILE="app/data/tickets.csv" && go run app/cmd/server/main.go
 
 	// application
 	// - config
